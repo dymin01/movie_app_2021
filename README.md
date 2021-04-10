@@ -1,3 +1,3 @@
 # Movie App 2021
 
-React JS Fundamentals Course (2021 Update!)
+노마드코더 react연습 Movie App 
